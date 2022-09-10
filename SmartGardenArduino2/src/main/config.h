@@ -1,0 +1,10 @@
+#define SERVO_PIN 6
+#define LED_PIN1 13
+#define LED_PIN2 12
+#define LED_PIN3 9
+#define LED_PIN4 10
+#define RX_PIN 0
+#define TX_PIN 1
+#define ALARM_TEMPERATURE_VALUE 5
+#define NUM_GREEN_LED 2
+#define NUM_INTENSITY_LED 2
